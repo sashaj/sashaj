@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello 👋 I'm a Freelance Front-end Developer
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sashaj&show_icons=true&theme=dark" width="400">
+</p>
 
 <!--
 **sashaj/sashaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
